@@ -1,2 +1,1 @@
-# requirement-analysis
-creating a repository and intial setup
+Requiredment Analysis in Software Development
