@@ -14,3 +14,11 @@ Key Activities in Requirement Analysis
 > 3. Requirement Documentation : Includes requirements specification document, user stories, and use cases.
 > 4. Requirement Analysis and Modeling : Inclodes requirement prioritixation, feasibility analysis, and modeling.
 > 5. Requirement Validation :  Review and approval, acceptance criteria, and traceability.
+
+Types of Requirements
+> Functional Requirements
+> > Describes What the system should.
+> > Examples: User authentification, property search, booking system, user registration.
+> Non-functional Requirements
+> > Describes how the sytem should perform.
+> > Examples: Performance, security, scalability, usability, reliability.
