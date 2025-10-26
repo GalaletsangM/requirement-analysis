@@ -29,4 +29,4 @@ Use Case Diagrams
 >> > Provide a clear visual representation of system functionalities
 >> > Help in identifying and organizing system requirements.
 >> > Facilitate communication among stakeholders and developement team
-> 
+> ![Use Case Diagram](https://github.com/GalaletsangM/requirement-analysis/blob/a812a2709ad3394abdd28b4b323459226d6805fe/alx-booking-uc.png)
